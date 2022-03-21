@@ -1,0 +1,36 @@
+
+table, th, td {
+    border:1px solid black;
+
+  }
+  th{
+      background-color: rgba(26, 173, 226, 0.583);
+  }
+  h1{
+      font-size: 50px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  h2{
+      font-size: 25px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      opacity: 70%;
+  }
+  h3{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+  
+img{
+    border-radius: 50%;
+}
+td{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(219, 97, 15, 0.542);
+    
+
+}
+p{
+    font-size: 5px;
+    color: white;
+}
