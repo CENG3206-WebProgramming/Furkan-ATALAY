@@ -1,0 +1,24 @@
+#conteynır {
+  height: 800px;
+}
+#conteynır > div {
+  text-align: center;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: teal;
+  margin: 0 auto;
+}
+.smallbox {
+  width: 200px;
+  height: 200px;
+  background-color: salmon;
+  border: 50px solid pink;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
